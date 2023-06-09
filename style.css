@@ -18,13 +18,32 @@ body{
     background-image: linear-gradient(rgba(0,0,0,0.7),rgb(0,0,0,0.7)),url('./KE-en-20230529-popsignuptwoweeks-perspective_alpha_website_small.jpg');
     background-position: center;
     color: red;
+   
 }
 
-div.button1{
+.text {
     display: flex;
-    justify-content: end;
+    flex-direction: column;
 }
 
+.text {
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+
+
+.text {
+    display: flex;
+    flex-direction: column;
+}
+
+.text {
+    display: flex;
+    flex-direction: column;
+}
 .texts{
     
     display:flex;
@@ -32,7 +51,7 @@ div.button1{
     justify-content:center;
     align-items: center;
     color: white;
-    padding: 180px;
+    padding: 100px;
 
     font-size: 2rem;
 
@@ -51,11 +70,41 @@ nav {
     width: 100%;
     display: flex;
     justify-content: space-evenly;
+
 }
 
 nav >*{
     margin: 0 60px;
 }
+
+.xbox{
+    display: flex;
+    background-color: black;
+    color: white;
+    
+}
+
+.favorites{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.shows{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+.profiles{
+    display: flex;
+    background-color: black;
+    color: white;
+}
+
+    
+
+
 
 
 
